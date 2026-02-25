@@ -47,4 +47,4 @@ The user can now select the splitting criterion (`method=...`):
 ---
 ## 📚 Reference
 This work is based on the following paper: 
-Barbas, P., Vrahatis, A. G., & Tasoulis, S. K. (2021). [RLAC: Random Line Approximation Clustering. In 2021 IEEE International Conference on Big Data (Big Data)](https://ieeexplore.ieee.org/document/9671596)
+* Barbas, P., Vrahatis, A. G., & Tasoulis, S. K. (2021). [RLAC: Random Line Approximation Clustering. In 2021 IEEE International Conference on Big Data (Big Data)](https://ieeexplore.ieee.org/document/9671596)
