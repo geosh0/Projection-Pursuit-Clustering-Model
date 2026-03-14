@@ -38,9 +38,11 @@ The user can now select the splitting criterion (`method=...`):
 
 *   **`depth_ratio`**: The original paper's metric. Best for clear, bimodal separations.
 *   **`dip`**: **Hartigan's Dip Test**. statistically tests for unimodality. (Robust against noise).
+*   **`holes`** : **Hole's Index** statistical test for multimodality.
 *   **`min_kurt` / `max_kurt`**: Uses **Kurtosis** to find bimodal distributions (min) or outlier-heavy projections (max).
 *   **`negentropy`**: Measures deviation from Gaussianity (based on Information Theory).
 *   **`skewness`**: Looks for asymmetric distributions.
+*   **`hermit`**: a combinational statistic index.
 *   **`fisher`**: Maximizes the Fisher Discriminant Ratio (variance between classes vs. variance within classes).
 *   **`friedman_tukey`**: Optimizes for "spread" and "clumpiness" simultaneously.
 
